@@ -2,13 +2,13 @@
 
 SafePin is a one-tap emergency response system designed for hostels and campuses.
 
-## 🚨 Problem
+## Problem
 Emergency response in colleges are often delayed due to panic, poor location clarity, and manual communication.
 
-## 💡 Solution
+## Solution
 SafePin allows students to send SOS alerts with minimal interaction while automatically attaching accurate location and context.
 
-## 🔑 Key Features
+## Key Features
 - One-tap SOS
 - GPS + DigiPIN fallback
 - Hostel block auto-detection
@@ -16,13 +16,13 @@ SafePin allows students to send SOS alerts with minimal interaction while automa
 - Real-time admin dashboard
 - Nearby hospital & security routing
 
-## 🛠 Tech Stack
+## Tech Stack
 - React + Vite
 - Firebase (Auth, Firestore, FCM)
 - Node.js (API-ready backend)
 - Google Maps integration
 
-## ⚠️ DigiPIN Note
+## DigiPIN Note
 The official DigiPIN API is not public yet.  
 SafePin is API-ready and uses a resolver that can be replaced once the official API is released.
 
